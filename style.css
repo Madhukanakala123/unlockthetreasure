@@ -216,7 +216,7 @@
 
 .remember-forgot {
     font-size: .9em;
-    color: #162938;
+    color: #fff;
     font-weight: 500;
     margin: -15px 0 15px;
     display: flex;
@@ -224,7 +224,7 @@
 }
 
 .remember-forgot label-input {
-    accent-color: #fff;
+    accent-color: #162938;
     margin-right: 3px;
 }
 
